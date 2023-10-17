@@ -2,6 +2,14 @@
 
 **如果图片加载不出来可以去博客看 https://blog.csdn.net/qq_56450993/article/details/133212526**
 
+**接毕业设计和论文**
+
+**毕业设计所有选题地址**
+
+**[github]👉https://github.com/XinChennn/allProjects**
+
+**[忻辰的个人博客]👉https://www.ixinjiu.cn/articles/156**
+
 
 # Spring Boot + Vue 电影购票系统
 
@@ -72,13 +80,3 @@
 
 
 **完整代码 +  QQ: 316595344     或   WX: lz316595344  咨询**
-
-**接毕业设计和论文**
-
-**毕业设计所有选题地址**
-
-**[github]👉https://github.com/XinChennn/allProjects**
-
-**[gitee]👉https://gitee.com/xinchennn/allProjects**
-
-**[忻辰的个人博客]👉https://www.ixinjiu.cn/articles/156**
